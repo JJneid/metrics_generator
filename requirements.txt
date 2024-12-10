@@ -1,0 +1,12 @@
+streamlit==1.31.0
+plotly==5.18.0
+anthropic==0.8.1
+sqlparse==0.4.4
+pandas==2.2.0
+numpy==1.26.3
+psycopg2-binary==2.9.9
+dash==2.14.2
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-table==5.0.0
+python-dotenv==1.0.0
